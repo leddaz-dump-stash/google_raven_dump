@@ -1,0 +1,14 @@
+# raven-user 13 TQ2A.230405.003.E1 9802792 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 13
+- id: TQ2A.230405.003.E1
+- incremental: 9802792
+- tags: release-keys
+- fingerprint: google/raven/raven:13/TQ2A.230405.003.E1/9802792:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-13-TQ2A.230405.003.E1-9802792-release-keys
+- repo: google_raven_dump

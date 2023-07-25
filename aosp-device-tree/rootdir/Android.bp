@@ -1,0 +1,73 @@
+//
+// Copyright (C) 2023 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// Init scripts
+sh_binary {
+    name: "disable_contaminant_detection.sh",
+    src: "bin/disable_contaminant_detection.sh",
+    vendor: true,
+}
+
+sh_binary {
+    name: "init.insmod.sh",
+    src: "bin/init.insmod.sh",
+    vendor: true,
+}
+
+sh_binary {
+    name: "init.radio.sh",
+    src: "bin/init.radio.sh",
+    vendor: true,
+}
+
+sh_binary {
+    name: "init.uwb.calib.sh",
+    src: "bin/init.uwb.calib.sh",
+    vendor: true,
+}
+
+// Init configuration files
+prebuilt_etc {
+    name: "init.aoc.rc",
+    src: "etc/init.aoc.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
+
+prebuilt_etc {
+    name: "init.gs101.rc",
+    src: "etc/init.gs101.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
+
+prebuilt_etc {
+    name: "init.gs101.usb.rc",
+    src: "etc/init.gs101.usb.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
+
+prebuilt_etc {
+    name: "init.raven.rc",
+    src: "etc/init.raven.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
+
+prebuilt_etc {
+    name: "init.raviole.rc",
+    src: "etc/init.raviole.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
+
+// fstab
+prebuilt_etc {
+    name: "fstab.gs101",
+    src: "etc/fstab.gs101",
+    vendor: true,
+}

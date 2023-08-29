@@ -1,0 +1,14 @@
+# raven_beta-user 14 UPB5.230623.006 10698132 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: raven
+- flavor: raven_beta-user
+- release: 14
+- id: UPB5.230623.006
+- incremental: 10698132
+- tags: release-keys
+- fingerprint: google/raven_beta/raven:14/UPB5.230623.006/10698132:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven_beta-user-14-UPB5.230623.006-10698132-release-keys
+- repo: google_raven_dump

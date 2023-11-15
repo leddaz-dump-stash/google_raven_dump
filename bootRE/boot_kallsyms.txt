@@ -1,0 +1,4 @@
+/workspace/dumpyara/vmlinux-to-elf/vmlinux_to_elf/kallsyms_finder.py:221: SyntaxWarning: invalid escape sequence '\d'
+  regex_match = search(b'Linux version (\d+\.[\d.]*\d)[ -~]+', self.kernel_img)
+[+] Version string: Linux version 5.10.157-android13-4-00003-gdfb1120f912b-ab10994928 (
+[!] The architecture of your kernel could not be guessed successfully. Please specify the --bit-size argument manually (use --help for its precise specification).

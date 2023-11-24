@@ -1,0 +1,14 @@
+# raven_beta-user 14 U1B2.230922.013 11018061 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: raven
+- flavor: raven_beta-user
+- release: 14
+- id: U1B2.230922.013
+- incremental: 11018061
+- tags: release-keys
+- fingerprint: google/raven_beta/raven:14/U1B2.230922.013/11018061:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven_beta-user-14-U1B2.230922.013-11018061-release-keys
+- repo: google_raven_dump

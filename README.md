@@ -1,0 +1,14 @@
+# raven-user 14 UQ1A.240105.002 11129216 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 14
+- id: UQ1A.240105.002
+- incremental: 11129216
+- tags: release-keys
+- fingerprint: google/raven/raven:14/UQ1A.240105.002/11129216:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-14-UQ1A.240105.002-11129216-release-keys
+- repo: google_raven_dump

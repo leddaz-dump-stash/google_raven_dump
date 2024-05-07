@@ -1,0 +1,14 @@
+# raven-user 14 AP1A.240405.002 24042542 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 14
+- id: AP1A.240405.002
+- incremental: 24042542
+- tags: release-keys
+- fingerprint: google/raven/raven:14/AP1A.240405.002/24042542:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-14-AP1A.240405.002-24042542-release-keys
+- repo: google_raven_dump

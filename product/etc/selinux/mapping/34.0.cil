@@ -1,0 +1,10 @@
+(typeattributeset vendor_pcs_app_34_0 (vendor_pcs_app))
+(expandtypeattribute (vendor_pcs_app_34_0) true)
+(typeattribute vendor_pcs_app_34_0)
+(typeattributeset camera_binder_service_34_0 (camera_binder_service))
+(expandtypeattribute (camera_binder_service_34_0) true)
+(typeattribute camera_binder_service_34_0)
+(typeattributeset vendor_pbcs_app_34_0 (vendor_pbcs_app))
+(expandtypeattribute (vendor_pbcs_app_34_0) true)
+(typeattribute vendor_pbcs_app_34_0)
+

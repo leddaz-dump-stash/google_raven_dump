@@ -1,0 +1,33 @@
+{
+"flags": [
+  { "name": "RELEASE_ACONFIG_FLAG_DEFAULT_PERMISSION", "value": "READ_ONLY", "set": "build/release/build_config/ap1a.scl", "default": "READ_WRITE", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_ACONFIG_VALUE_SETS", "value": "aconfig_value_set-ap1a", "set": "build/release/build_config/ap1a.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_AIDL_USE_UNFROZEN", "value": "", "set": "build/release/build_config/ap1a.scl", "default": "true", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_ANGLE_ON_SYSTEM", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_AVF_ENABLE_DEVICE_ASSIGNMENT", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_AVF_ENABLE_DICE_CHANGES", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_AVF_ENABLE_LLPVM_CHANGES", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_AVF_ENABLE_REMOTE_ATTESTATION", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_AVF_ENABLE_VENDOR_MODULES", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_BOARD_API_LEVEL", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_BOARD_API_LEVEL_FROZEN", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", "value": "", "set": "build/release/build_config/ap1a.scl", "default": "true", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_DEPRECATE_VNDK", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_EXPOSE_FLAGGED_API", "value": "true", "set": "build/release/build_config/ap1a.scl", "default": "true", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_HARDWARE_BLUETOOTH_RANGING_SERVICE", "value": "true", "set": "build/release/build_flags.scl", "default": "true", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", "value": "mainline_module_prebuilt_nightly", "set": "build/release/build_flags.scl", "default": "mainline_module_prebuilt_nightly", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_NDK_ABI_MONITORED", "value": "", "set": "build/release/build_flags.scl", "default": "", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PACKAGE_SOUND_PICKER", "value": "SoundPicker", "set": "build/release/build_flags.scl", "default": "SoundPicker", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "value": "11", "set": "build/release/build_config/ap1a.scl", "default": "11", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_SDK_VERSION", "value": "34", "set": "build/release/build_config/ap1a.scl", "default": "34", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_SECURITY_PATCH", "value": "2024-04-05", "set": "build/release/build_config/ap1a.scl", "default": "2023-12-05", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_VERSION", "value": "AP1A", "set": "build/release/build_config/ap1a.scl", "default": "ZP1A", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_VERSION_ALL_CODENAMES", "value": "REL", "set": "build/release/build_config/ap1a.scl", "default": "UpsideDownCake,VanillaIceCream", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", "value": "REL,VanillaIceCream", "set": "build/release/build_config/ap1a.scl", "default": "UpsideDownCake,VanillaIceCream", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_VERSION_CODENAME", "value": "REL", "set": "build/release/build_config/ap1a.scl", "default": "VanillaIceCream", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_VERSION_KNOWN_CODENAMES", "value": "Base,Base11,Cupcake,Donut,Eclair,Eclair01,EclairMr1,Froyo,Gingerbread,GingerbreadMr1,Honeycomb,HoneycombMr1,HoneycombMr2,IceCreamSandwich,IceCreamSandwichMr1,JellyBean,JellyBeanMr1,JellyBeanMr2,Kitkat,KitkatWatch,Lollipop,LollipopMr1,M,N,NMr1,O,OMr1,P,Q,R,S,Sv2,Tiramisu,UpsideDownCake,VanillaIceCream", "set": "build/release/build_flags.scl", "default": "Base,Base11,Cupcake,Donut,Eclair,Eclair01,EclairMr1,Froyo,Gingerbread,GingerbreadMr1,Honeycomb,HoneycombMr1,HoneycombMr2,IceCreamSandwich,IceCreamSandwichMr1,JellyBean,JellyBeanMr1,JellyBeanMr2,Kitkat,KitkatWatch,Lollipop,LollipopMr1,M,N,NMr1,O,OMr1,P,Q,R,S,Sv2,Tiramisu,UpsideDownCake,VanillaIceCream", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_VERSION_LAST_STABLE", "value": "14", "set": "build/release/build_config/ap1a.scl", "default": "14", "declared": "build/release/build_flags.scl" },
+  { "name": "RELEASE_PLATFORM_VNDK_VERSION", "value": "35", "set": "build/release/build_config/ap1a.scl", "default": "35", "declared": "build/release/build_flags.scl" }
+]
+}

@@ -1,0 +1,9 @@
+product/priv-app/DevicePersonalizationPrebuiltPixel2021-aiai_20240329.00_RC16/DevicePersonalizationPrebuiltPixel2021-aiai_20240329.00_RC16.apk.xz
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreVic.apk.xz
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/priv-app/GoogleCamera/GoogleCamera.apk.xz
+product/app/PrebuiltGmail/PrebuiltGmail.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/app/Photos/Photos.apk.xz
+vendor/apex/com.google.pixel.camera.hal.apex.xz

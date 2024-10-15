@@ -1,0 +1,14 @@
+# raven-user 15 AP3A.241005.015 12366759 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 15
+- id: AP3A.241005.015
+- incremental: 12366759
+- tags: release-keys
+- fingerprint: google/raven/raven:15/AP3A.241005.015/12366759:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-15-AP3A.241005.015-12366759-release-keys
+- repo: google_raven_dump

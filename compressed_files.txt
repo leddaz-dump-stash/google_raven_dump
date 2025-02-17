@@ -1,0 +1,7 @@
+product/app/Photos/Photos.apk.xz
+product/app/PrebuiltGmail/PrebuiltGmail.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/priv-app/DevicePersonalizationPrebuiltPixel2021-U.32_V.7_playstore_aiai_20240725.00_RC08/DevicePersonalizationPrebuiltPixel2021-U.32_V.7_playstore_aiai_20240725.00_RC08.apk.xz
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk.xz
+product/priv-app/GoogleCamera/GoogleCamera.apk.xz
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreVic.apk.xz

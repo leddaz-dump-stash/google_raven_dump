@@ -1,0 +1,14 @@
+# raven-user 15 AP4A.250205.002 12821496 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 15
+- id: AP4A.250205.002
+- incremental: 12821496
+- tags: release-keys
+- fingerprint: google/raven/raven:15/AP4A.250205.002/12821496:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-15-AP4A.250205.002-12821496-release-keys
+- repo: google_raven_dump

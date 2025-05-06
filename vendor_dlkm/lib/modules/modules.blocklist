@@ -1,0 +1,12 @@
+blocklist zram
+blocklist mali_kutf
+blocklist mali_kutf_clk_rate_trace_test_portal
+blocklist pktgen
+blocklist sscoredump_sample_test.ko
+blocklist sscoredump_test.ko
+blocklist bcmdhd4389
+blocklist drv2624
+blocklist ftm5
+blocklist cs40l26_i2c
+blocklist sec_touch
+blocklist dw3000-core-tests.ko

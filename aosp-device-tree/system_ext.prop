@@ -1,0 +1,3 @@
+remote_provisioning.use_cert_processor=false
+ro.config.isolated_compilation_enabled=true
+ro.system_ext.build.version.sdk_minor=0
